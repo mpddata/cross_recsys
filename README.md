@@ -34,9 +34,12 @@ es index complete!, total 420 (or x amount)  new docs indexed!
 
 http://10.55.80.130:9200/nstp/article/_search?q=created_v2:[2019-01-01+TO+2019-01-24]+AND+title:najib+AND+site_name:bharian
 
-parameter
+parameter:
+
 created_v2: [start-to-end]
+
 title: najib ( or any text/query)
+
 site_name:  nst ( portal name)
 
 
