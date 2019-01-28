@@ -23,3 +23,10 @@ Default SQL query was T-1 (changed accordingly)
     where created >= unix_timestamp(CURRENT_TIMESTAMP - interval 24 hour) and created <=unix_timestamp(CURRENT_TIMESTAMP)
     '''
 ```
+
+# 3. Successful indexed
+
+es index complete!, total 420 (or x amount)  new docs indexed!
+
+
+
