@@ -7,6 +7,8 @@ pip install -r requirement.txt
 
 # 2. Index new document into elasticsearch 
 
+Run the python script to start index
+
 ```
 python index_new_doc.py
 ```
