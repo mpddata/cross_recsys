@@ -1,0 +1,5 @@
+pandas
+pymysql
+paramiko
+sshtunnel
+elasticsearch
